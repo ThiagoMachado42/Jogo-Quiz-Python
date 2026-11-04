@@ -1,7 +1,7 @@
 print("Bem-vindo ao meu JogoQuiz \n Jogo Interessante de Jogar")
 Player = input ("Você quer jogar o jogo e se sentir menos burro, Fedelho? \n")
 if Player.lower() != 'sim':
-    print("Good Bye")
+    print("Muito Bem, Fedelho")
     quit()
 
 name_player = input("Coloque seu Nome: ")
